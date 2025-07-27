@@ -1,0 +1,1 @@
+https://api.themoviedb.org/3/trending/movie/day?api_key=bb26d7d1ea7067759a6efcc8b0b6d4e8&language=en-US
